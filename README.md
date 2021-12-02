@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m @Gioseph
 - 👀 I’m interested in being a good programmer and a future senior software engineer
-- 🌱 I’m currently learning computer science at university
-- 💞️ I’m looking to collaborate on something that can change people's life
+- 🌱 I’m currently studying computer science at university of Verona
+- 💞️ I'm looking to collect the more skills i can in the back-end aspect of programming
