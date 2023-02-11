@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @Gioseph
-- 👀 I’m interested in being a good programmer and a future senior web developer
+- 👀 I’m interested in being a good programmer and a future senior front-end developer
 - 🌱 I’m currently studying computer science at university of Verona
 - 💞️ I'm looking to collect the more skills i can in the front-end aspect of programming
