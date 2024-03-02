@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @Gioseph
-- 👀 I'm aiming to be the progress more and more into coding and its amenities
+- 👀 I'm aiming to become a damn good developer 
 - 🌱 I’m currently working as full stack web developer at Webmotion VR, Italy
-- 💞️ I'm in love with PHP and i don't know why
+- 💞️ I love to solve problems with code
