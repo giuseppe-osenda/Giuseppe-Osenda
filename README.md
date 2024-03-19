@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @Gioseph
-- 👀 I'm aiming to become a damn good developer 
 - 🌱 I’m currently working as full stack web developer at Webmotion VR, Italy
 - 💞️ I love to solve problems with code
