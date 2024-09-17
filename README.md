@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @Gioseph
-- 🌱 I’m currently working as backend developer at AQuest VR, Italy
-- 💞️ I love to solve problems with code
+- 🔭 I’m currently working as backend developer at AQuest VR, Italy
+- 🔨 I love to solve problems with code
